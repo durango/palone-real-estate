@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palone Commercial Properties Group, LLC</title>
+    <link>http://palone.danieldurante.com/</link>
+    <description>Recent content on Palone Commercial Properties Group, LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Dec 2015 11:02:14 -0500</lastBuildDate>
+    <atom:link href="http://palone.danieldurante.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://palone.danieldurante.com/about/</link>
+      <pubDate>Fri, 18 Dec 2015 11:02:14 -0500</pubDate>
+      
+      <guid>http://palone.danieldurante.com/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;address-information:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Address Information&lt;/h1&gt;
+
+&lt;pre class=&#34;address&#34;&gt;
+Palone Commercial Properties Group, LLC
+210 42nd St, Suite 1
+Brooklyn, NY 11234
+Tel: &lt;a href=&#34;tel:+19178594065&#34;&gt;917-859-4065&lt;/a&gt;
+&lt;/pre&gt;
+
+&lt;iframe class=&#34;map&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; width=&#34;380&#34; height=&#34;450&#34; src=&#34;https://maps.google.com/maps?hl=en&amp;q=210%2042nd%20St%2c%20Suite%201 Brooklyn,  11234&amp;ie=UTF8&amp;t=roadmap&amp;z=13&amp;iwloc=B&amp;output=embed&#34;&gt;&lt;/iframe&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
