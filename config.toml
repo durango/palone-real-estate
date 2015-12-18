@@ -1,0 +1,17 @@
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+baseurl = "http://palone.danieldurante.com/"
+languageCode = "en-us"
+canonifyurls: true
+title = "Palone Commercial Properties Group, LLC"
+subtitle = "Commercial Real Estate & More"
+
+[params]
+  title = "Palone Commercial Properties Group, LLC"
+  subtitle = "Commercial Real Estate & More"
+
+[params.inc]
+  title = "Palone Commercial Properties Group, LLC"
+  subtitle = "Commercial Real Estate & More"
+  company = "Palone Commercial Properties Group, LLC"
